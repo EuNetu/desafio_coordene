@@ -58,5 +58,6 @@ export default {
 b{
   margin-top: 40px;
   font-size: 40px;
+  text-shadow: 2px 2px 8px rgb(80, 79, 79);
 }
 </style>
